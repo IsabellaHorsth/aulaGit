@@ -1,3 +1,8 @@
 Aula de git hub
 
 segunda anotação do projeto
+
+Sobre o site: Este é um site institucional básico desenvolvido para testar comandos do Git e do GitHub.
+Desenvolvedor: Isabella Matos Horsth
+Data de início: Outubro de 2026
+Objetivo: Concluir o Exercício 1 da atividade prática.
